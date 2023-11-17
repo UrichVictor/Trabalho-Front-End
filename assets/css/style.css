@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color: white;
+}
+
+.cabecalho__logo{
+    width: 170px;
+    height: 100px;
+    text-align: left;
+}
+
+.cabecalho__titulo{
+    text-align: center;
+    color: white;
+}
+
+.cabecalho{
+    background-color: black;
+}
